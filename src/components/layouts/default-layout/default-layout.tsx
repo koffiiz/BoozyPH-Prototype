@@ -42,7 +42,7 @@ const DefaultLayout: React.FC<Props> = ({ query, children }) => {
                   cursor: 'pointer',
                 }}
               >
-                Next Shopify Storefront
+                Boozy PH
               </Link>
             </NextLink>
 
