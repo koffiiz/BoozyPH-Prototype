@@ -26,7 +26,7 @@ const DefaultLayout: React.FC<Props> = ({ query, children }) => {
 
   return (
     <div>
-      <AppBar position="fixed">
+      <AppBar position="fixed" sx={{ bgcolor: '#ECA83A' }}>
         <Container>
           <Toolbar sx={{ padding: '0px !important' }}>
             <NextLink href="/" passHref>
